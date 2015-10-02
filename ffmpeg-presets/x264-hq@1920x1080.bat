@@ -1,7 +1,7 @@
 @echo off
 cls
 
-set suffix=-converted-x264
+set suffix=-converted-x264-hq
 set extension=mkv
 
 set sourcePath=%~f1
